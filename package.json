@@ -5,7 +5,7 @@
   "main": "program.js",
   "scripts": {
     "start": "node program.js"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sujanpns/sujaan.git"
